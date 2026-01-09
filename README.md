@@ -4,9 +4,9 @@
 
 **Opensidian** is a powerful, multi-provider AI assistant plugin for Obsidian, capable of running **Anthropic (Claude)**, **OpenAI (GPT)**, and **Aliyun (Qwen)** models directly within your notes.
 
-It is a feature-rich fork/port of the excellent [Claudian](https://github.com/shabegom/claudian) plugin, extended to support multiple AI providers, custom models, and enhanced customization.
+It is a feature-rich fork/port of the excellent [Claudian](https://github.com/YishenTu/claudian) plugin, extended to support multiple AI providers, custom models, and enhanced customization.
 
-![Preview](https://github.com/shabegom/claudian/raw/main/Preview.png)
+![Preview](https://github.com/Preview.png)
 
 ## ✨ Key Features
 
@@ -74,7 +74,7 @@ If a new model is released (e.g., `gpt-5`, `qwen-coder-plus`), you don't need to
     - Hover over any AI message to see the "Copy" button—click it to copy the full response.
 
 ## ❤️ Credits
-Based on the [Claudian](https://github.com/shabegom/claudian) plugin by Shabegom.
+Based on the [Claudian](https://github.com/YishenTu/claudian) plugin by Shabegom.
 Opensidian extends this foundation to bring the power of choice (OpenAI, Qwen) to the same beautiful interface,but lost something.
 
 ## 📄 License
