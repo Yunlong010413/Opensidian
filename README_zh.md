@@ -6,7 +6,7 @@
 
 它是优秀的 [Claudian](https://github.com/YishenTu/claudian) 插件的一个功能丰富的分支/移植版本，扩展了多 AI 供应商支持、自定义模型和增强的个性化设置。
 
-![Preview](https://github.com/Preview.png)
+![Preview](https://github.com/Yunlong010413/Opensidian/blob/main/Preview.png)
 
 ## ✨主要功能
 

@@ -6,7 +6,7 @@
 
 It is a feature-rich fork/port of the excellent [Claudian](https://github.com/YishenTu/claudian) plugin, extended to support multiple AI providers, custom models, and enhanced customization.
 
-![Preview](https://github.com/Preview.png)
+![Preview](https://github.com/Yunlong010413/Opensidian/blob/main/Preview.png)
 
 ## ✨ Key Features
 
