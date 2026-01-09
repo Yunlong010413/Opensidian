@@ -1,0 +1,10 @@
+{
+  "id": "opensidian",
+  "name": "opensidian",
+  "version": "3.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "opensidian: multi-model chat for Obsidian (Claude / OpenAI / Qwen)",
+  "author": "YUN",
+  "authorUrl": "https://github.com",
+  "isDesktopOnly": true
+}
